@@ -1,5 +1,5 @@
-Mi nombre es Gerson Junior Villarroel Rodriguez
-Estudio la carrera de licenciatura en ingenieria de sistemas
+Mi nombre es Gerson Junior Villarroel Rodriguez.
+Estudio la carrera de licenciatura en ingenieria de sistemas.
 Una frase motivadora pueden ser " Si tienes miedo a fallar, probablemente fallaras" , "No cuentes los dias, haz que los dias cuenten" y "lo que vale la pena nunca sera facil" son frases que con el tiempo logre entenderlas.
 
 
