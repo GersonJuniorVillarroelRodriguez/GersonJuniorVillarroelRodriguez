@@ -7,7 +7,7 @@
 -  📫 MI CORREO: **gersonvillarroel38@gmail.com**
 
 ## Frase Motivadora 💪
--  **Una frase motivadora pueden ser " Si tienes miedo a fallar, probablemente fallaras" , "No cuentes los dias, haz que los dias cuenten" y "lo que vale la pena nunca sera facil" son frases que con el tiempo logre entenderlas.**
+-  **Unas frases motivadora pueden ser " Si tienes miedo a fallar, probablemente fallaras" , "No cuentes los dias, haz que los dias cuenten" y "lo que vale la pena nunca sera facil" son frases que con el tiempo logre entenderlas.**
 
 <h3 align="left">Contactame:</h3>
 <p align="left">
