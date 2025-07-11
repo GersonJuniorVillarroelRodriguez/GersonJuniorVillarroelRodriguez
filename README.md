@@ -1,6 +1,20 @@
-Mi nombre es Gerson Junior Villarroel Rodriguez.
-Estudio la carrera de licenciatura en ingenieria de sistemas.
-Una frase motivadora pueden ser " Si tienes miedo a fallar, probablemente fallaras" , "No cuentes los dias, haz que los dias cuenten" y "lo que vale la pena nunca sera facil" son frases que con el tiempo logre entenderlas.
+<h1 align="center">Hola 👋, Mi nombre es Gerson Junior Villarroel Rodriguez</h1>
+- BOLIVIA 🇧🇴
+
+## Estudio 
+ **licenciatura en ingenieria de sistemas 💻🖱️.**
+
+-  📫 MI CORREO: **gersonvillarroel38@gmail.com**
+
+## Frase Motivadora 💪
+-  **Una frase motivadora pueden ser " Si tienes miedo a fallar, probablemente fallaras" , "No cuentes los dias, haz que los dias cuenten" y "lo que vale la pena nunca sera facil" son frases que con el tiempo logre entenderlas.**
+
+<h3 align="left">Contactame:</h3>
+<p align="left">
+<a href="https://fb.com/gerson villarroel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gerson villarroel" height="30" width="40" /></a>
+<a href="https://instagram.com/gerson.villarroel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gerson.villarroel" height="30" width="40" /></a>
+</p>
+
 
 
 
